@@ -1,4 +1,4 @@
-# Counting_the_amount_of_symbols_in_a_file
+# Count_the_amount_of_symbols_in_a_file
 This project is the second laboratory work in the discipline "Java Programming".
 ### What this program can do:
 1. Open the file, the path of which the user entered from the keyboard, 
