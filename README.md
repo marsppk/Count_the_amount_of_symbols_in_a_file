@@ -2,7 +2,7 @@
 This project is the second laboratory work in the discipline "Java Programming".<br>
 Works well with files that have the extension .txt, using others may have encoding problems :(
 ### What this program can do:
-1. Open the file, the path of which the user entered from the keyboard, 
+1. Open the file, the path of which the user entered from the keyboard.
 2. Write information to or read it from a file.
 3. Count the number of any symbols that appear in the file.
 4. Handle exceptions.
